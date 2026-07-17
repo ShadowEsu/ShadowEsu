@@ -6,6 +6,12 @@ I work at the intersection of AI, product engineering, and education—turning a
 
 [Portfolio](https://shadowesu.github.io/Resume_Portfolio/) · [LinkedIn](https://www.linkedin.com/in/preston-jay-susanto/) · [Regrade](https://regradeapp.tech) · [Email](mailto:prestonjaysusanto@gmail.com)
 
+## What I use
+
+**Product engineering:** TypeScript, React, Next.js, Vite, Tailwind CSS, Electron  
+**Backend & infrastructure:** Node.js, Express, Python, Supabase, PostgreSQL, GitHub Actions  
+**AI work:** LLM integrations, prompt and context design, model-routing experiments, reinforcement learning
+
 ## Selected work
 
 | Project | What I built | Stack / focus |
