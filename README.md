@@ -23,6 +23,12 @@ I work at the intersection of AI, product engineering, and education—turning a
 | [Meridian AI](https://github.com/ShadowEsu/meridian-ai) | LLM cost intelligence: usage tracking, per-key budgets, alerts, and model-routing experiments. | Node.js, Express, Supabase, Python |
 | [Sortify](https://github.com/ShadowEsu/Sortify_App) | A gamified waste-sorting experience using AI classification, location tools, and leaderboards. | React, TypeScript, Gemini |
 
+<p align="center">
+  <a href="https://gitfut.com/ShadowEsu">
+    <img src="https://gitfut.com/ShadowEsu.png" alt="GitFut player card generated from Preston Susanto's public GitHub activity" width="420" />
+  </a>
+</p>
+
 ## Currently building
 
 - **Regrade** — more transparent, student-centered grade review.
