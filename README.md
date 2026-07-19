@@ -32,6 +32,7 @@
 I'm an EECS student at Diablo Valley College, independent reinforcement-learning researcher, and founder focused on practical AI products. I work where product engineering, AI, and education meet—taking ambitious ideas all the way to clear, testable experiences.
 
 - 🔭 Building **[Regrade](https://regradeapp.tech)**, a more transparent, student-centered grade-review product.
+- 🚀 Preparing **[Unvibe](https://github.com/ShadowEsu/Unvibe)** for founder fellowships, an AngelList presence, and a future Y Combinator application.
 - 🌱 Researching **reward shaping for accessible AI tutoring** for community-college learners.
 - 🧠 Exploring **LLM systems, context design, model routing, and reinforcement learning**.
 - 🏆 Three-time **SF Hacks 2026** award winner with [Sortify](https://github.com/ShadowEsu/Sortify_App).
@@ -63,6 +64,7 @@ I'm an EECS student at Diablo Valley College, independent reinforcement-learning
 
 | Project | What I built | Focus |
 | --- | --- | --- |
+| [Unvibe](https://github.com/ShadowEsu/Unvibe) | A desktop-first companion that explains AI-assisted code changes in context and helps developers retain what changed. | Electron · TypeScript · AI developer tools |
 | [Repo Doctor](https://github.com/ShadowEsu/OpenAIHack-Repo_Doctor) | OpenAI Hackathon project exploring healthier, more understandable repositories. | Developer tools · AI |
 | [Vigilante](https://github.com/ShadowEsu/Vigilante) | Competitive-intelligence monitoring for pricing, filings, hiring pages, and product updates. | Next.js · Supabase |
 | [Meridian AI](https://github.com/ShadowEsu/meridian-ai) | LLM cost intelligence with usage tracking, per-key budgets, alerts, and routing experiments. | Node.js · Python |
