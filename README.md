@@ -73,11 +73,6 @@ I'm an EECS student at Diablo Valley College, independent reinforcement-learning
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShadowEsu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=FF3131&text_color=FFFFFF&ring_color=1F6FEB" alt="Preston's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowEsu&layout=compact&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=FFFFFF" alt="Most used languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ShadowEsu&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FFFFFF&sideLabels=1F6FEB&dates=B7C9E2&stroke=1F6FEB&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 </p>
 
