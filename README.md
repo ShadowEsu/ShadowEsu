@@ -10,6 +10,7 @@ EECS student at Diablo Valley College (4.0 GPA, Fall 2025) in the SF Bay Area. I
 - **Jaymini**: an AI team workspace where AI Teammates' drafts wait for a person's approval. https://jaymini.org
 
 ## Awards
+- 2nd Overall (prizes by Broxi AI), Best Beginner Hack and Best Hardware Hack, [SF Hacks 2026](https://shipyardhq.tech/projects/14f42bb4-9898-4bfd-aa1e-3a119e42f0b4), with [Sortify](https://github.com/ShadowEsu/Sortify_App) (February 2026, team of 4)
 - Gaming Award, MEGA Hackathon 2026, with [Sortify](https://github.com/ShadowEsu/Sortify_App) (March 2026)
 - Academic Honors, Diablo Valley College, Fall 2025 (4.0 GPA)
 - Projects submitted to 14 hackathons on Devpost, including Cal Hacks 13.0 (October 2026)
